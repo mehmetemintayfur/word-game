@@ -1,16 +1,11 @@
-# wordgame
+# Word Game
 
-A new Flutter project.
+This game challenges your vocabulary and skill, try to write words by tapping letter boxes that randomly fall from the top of your screen.
+Write words quickly and constantly to destroy letter boxes and keep them from reaching the top of your screen.
+The higher your score, the harder the game will be.
 
-## Getting Started
+![wg1](https://user-images.githubusercontent.com/101339988/235871252-9433c097-b82e-4bfc-8ef6-a4c7e6968506.png)
+![wg2](https://user-images.githubusercontent.com/101339988/235871257-df2d1c41-aeab-4347-8966-d2f5d9eb8645.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
